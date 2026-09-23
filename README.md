@@ -26,27 +26,11 @@ Computer Engineering master's candidate with an interest in Web Development, Inf
 - **StayLiveLock (In-Progress)**: Web browser extension that speeds up live video to be as close to live as possible.
 
 ## Skills
-
-**Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-7c3aed?style=flat-square) ![C](https://img.shields.io/badge/C-7c3aed?style=flat-square) ![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square) ![C#](https://img.shields.io/badge/C%23-7c3aed?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-7c3aed?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-7c3aed?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-7c3aed?style=flat-square)
-
-**Web & Frontend**
-![React](https://img.shields.io/badge/React-7c3aed?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square)
-
-**Game Engines**
-![Unity](https://img.shields.io/badge/Unity-7c3aed?style=flat-square) ![Phaser](https://img.shields.io/badge/Phaser-7c3aed?style=flat-square) ![Twine](https://img.shields.io/badge/Twine-7c3aed?style=flat-square) ![RenPy](https://img.shields.io/badge/RenPy-7c3aed?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-7c3aed?style=flat-square) ![Construct](https://img.shields.io/badge/Construct-7c3aed?style=flat-square)
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-7c3aed?style=flat-square) ![Lambda](https://img.shields.io/badge/Lambda-7c3aed?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-7c3aed?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-7c3aed?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-7c3aed?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-7c3aed?style=flat-square) ![Git](https://img.shields.io/badge/Git-7c3aed?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=flat-square)
-
-**Networking & APIs**
-![WireGuard](https://img.shields.io/badge/WireGuard-7c3aed?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-7c3aed?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST%20APIs-7c3aed?style=flat-square)
-
-**Hardware & Embedded**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-7c3aed?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-7c3aed?style=flat-square) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-7c3aed?style=flat-square) ![IMU Sensors](https://img.shields.io/badge/IMU%20Sensors-7c3aed?style=flat-square)
-
-**Development Environments**
-![VS Code](https://img.shields.io/badge/VS%20Code-7c3aed?style=flat-square) ![Xcode](https://img.shields.io/badge/Xcode-7c3aed?style=flat-square)
-
-**IT Support & Service Management**
-![Windows 10/11](https://img.shields.io/badge/Windows%2010%2F11-7c3aed?style=flat-square) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-7c3aed?style=flat-square) ![Outlook](https://img.shields.io/badge/Outlook-7c3aed?style=flat-square) ![ServiceNow](https://img.shields.io/badge/ServiceNow-7c3aed?style=flat-square)
+- **Languages:** C++, C, Python, JavaScript, TypeScript, C#, Swift, SQL, Bash
+- **Web & Frontend:** React, Node.js, Express
+- **Game Engines:** Unity, Phaser, Twine, RenPy, Unreal Engine, Construct
+- **Cloud & Infrastructure:** AWS (Lambda, EC2, DynamoDB), GitHub Actions, Cloudflare, Git, GitHub
+- **Networking & APIs:** WireGuard/VPN, REST APIs
+- **Hardware & Embedded:** Raspberry Pi, Arduino, Microcontrollers, IMU Sensors
+- **Development Environments:** VS Code, Xcode
+- **IT Support & Service Management:** Windows 10/11, Microsoft Teams, Outlook, ServiceNow
