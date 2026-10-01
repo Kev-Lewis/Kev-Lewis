@@ -2,6 +2,16 @@ Computer Engineering master's candidate with an interest in Web Development, Inf
 
 **[kevinlewis.net](https://kevinlewis.net)**
 
+## Software & Systems
+- **[Website Portfolio](https://kevinlewis.net)**: kevinlewis.net, web portfolio.
+- **[Pi-Tether](https://kevinlewis.net/projects/pi-tether)**: Self-hosted WireGuard remote access utilizing Raspberry Pi to home desktop.
+- **[Hydration Station](https://kevinlewis.net/projects/hydration-station)**: Discord water-reminder bot, serverless on AWS.
+- **[Stream Privacy Guard](https://github.com/Kev-Lewis/privacy-guard)**: Browser extension that redacts personal info on stream before it shows on screen.
+- **[Twitch Stream Toolkit (bob-a-bot)](https://kevinlewis.net/projects/twitch-stream-toolkit)**: Twitch bot with an admin panel, deployed on a self-hosted box utilizing AWS.
+- **Job Application Workbench**: Local Node.js and SQLite workflow tracker with resume matching and Word document automation.
+- **League Desk (In-Progress)**: Windows Server home lab with Active Directory, SQL Server, and a Node.js app, used to track bowling league tasks.
+- **StayLiveLock (In-Progress)**: Web browser extension that speeds up live video to be as close to live as possible.
+
 ## Sports Technology
 - **[Pin-Sighter](https://pin-sighter.kevinlewis.net)**: Local-first bowling analytics web app.
 - **RDRestore (In-Progress)**: Bowling ball detoxer, M.S. Computer Engineering capstone project.
@@ -16,14 +26,6 @@ Computer Engineering master's candidate with an interest in Web Development, Inf
 - **[Field Goal](https://github.com/Kev-Lewis/fieldgoal)**: One-button football-kicking game.
 - **[Abscond](https://github.com/Kev-Lewis/Abscond)**: Sci-fi interactive fiction, built in Twine.
 - **[Junkyard Jubilee](https://github.com/ejrossma/JunkyardJubilee)**: Endless runner, built in Phaser 3.
-
-## Software & Systems
-- **[Website Portfolio](https://kevinlewis.net)**: kevinlewis.net, web portfolio.
-- **[Pi-Tether](https://kevinlewis.net/projects/pi-tether)**: Self-hosted WireGuard remote access utilizing Raspberry Pi to home desktop.
-- **[Hydration Station](https://kevinlewis.net/projects/hydration-station)**: Discord water-reminder bot, serverless on AWS.
-- **[Stream Privacy Guard](https://github.com/Kev-Lewis/privacy-guard)**: Browser extension that redacts personal info on stream before it shows on screen.
-- **[Bob-a-Bot](https://bob-a-bot.kevinlewis.net)**: Twitch bot with an admin panel, deployed on a self-hosted box utilizing AWS.
-- **StayLiveLock (In-Progress)**: Web browser extension that speeds up live video to be as close to live as possible.
 
 ## Skills
 - **Languages:** C++, C, Python, JavaScript, TypeScript, C#, Swift, SQL, Bash
