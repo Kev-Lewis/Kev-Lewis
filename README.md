@@ -28,11 +28,13 @@ Computer Engineering master's candidate with an interest in Web Development, Inf
 - **[Junkyard Jubilee](https://github.com/ejrossma/JunkyardJubilee)**: Endless runner, built in Phaser 3.
 
 ## Skills
-- **Languages:** C++, C, Python, JavaScript, TypeScript, C#, Swift, SQL, Bash
+- **Languages:** C++, C, Python, JavaScript, TypeScript, C#, Swift, SQL, Bash, PowerShell
 - **Web & Frontend:** React, Node.js, Express
+- **Databases:** SQL Server, SQLite, DynamoDB
 - **Game Engines:** Unity, Phaser, Twine, RenPy, Unreal Engine, Construct
 - **Cloud & Infrastructure:** AWS (Lambda, EC2, DynamoDB), GitHub Actions, Cloudflare, Git, GitHub
 - **Networking & APIs:** WireGuard/VPN, REST APIs
 - **Hardware & Embedded:** Raspberry Pi, Arduino, Microcontrollers, IMU Sensors
 - **Development Environments:** VS Code, Xcode
+- **Windows Server & Identity:** Active Directory, Group Policy, Hyper-V, Windows Server
 - **IT Support & Service Management:** Windows 10/11, Microsoft Teams, Outlook, ServiceNow
